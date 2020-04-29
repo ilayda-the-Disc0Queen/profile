@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Pragati+Narrow&display=swap');
+
+body {
+  background-color: #ffecc7;
+  font-family: 'Pragati Narrow', sans-serif;
+  font-size: 24px;
+  display: block;
+}
+
+p {
+  padding: 16px;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+  color: #85a392;
+}
+
+.card-white {
+  background-color: white;
+  margin: 20px 0px;
+  text-align: center;
+  padding: 24px;
+  margin: 16px 0px;
+  box-shadow: 0px 8px 40px rgba(0,0,0,0.2);
+  font-color: #235952;
+}
+
+div {
+  border-radius: 4px;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+ul {
+  padding-left: 0px
+  list-style: none;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.btn {
+    background-color: #f5b971;
+    color: white;
+    padding: 16px 20px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li {
+    display: inline;
+    padding: 10px;
+}
+
+.list-inline i {
+    font-size: 50px;
+    color: #565d47;
+}
+
+#socials {
+
+}
+
+h2 {
+  color:  #85a392
+}
